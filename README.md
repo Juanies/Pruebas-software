@@ -18,6 +18,6 @@
 
 ![image](https://github.com/Juanies/Pruebas-software/assets/80675013/85108540-ce56-441b-ab94-7fd90c48e48d)
 
-![GRAD](https://github.com/Juanies/Pruebas-software/assets/80675013/ed9b9999-1872-4510-9e6d-e33f45cb6108)
 
 
+![awa](https://github.com/Juanies/Pruebas-software/assets/80675013/ea84104a-98f3-4f6c-88b0-c12df42fb107)
