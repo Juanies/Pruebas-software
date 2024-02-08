@@ -1,3 +1,12 @@
+➢ De caja negra: (o de comportamiento) Sólo se comprueba la funcionalidad, es decir,
+si la salida es adecuada en función de los datos de entrada, sin fijarse en el
+funcionamiento interno. En las pruebas de caja negra también serán necesarios
+múltiples casos de prueba que incluyan todos los grupos de entradas que tienen
+comportamientos distintos
+
+➢ De caja blanca: (o estructurales) Se analiza la estructura interna del programa
+inspeccionando el código.
+
 ```java
 (I) public void suma () {
 (1) Scanner teclado = new Scanner(System.in);
