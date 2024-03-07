@@ -30,3 +30,6 @@ inspeccionando el código.
 
 
 ![awa](https://github.com/Juanies/Pruebas-software/assets/80675013/ea84104a-98f3-4f6c-88b0-c12df42fb107)
+
+DIVISIBLE
+![Untitled-2024-01-16-2147](https://github.com/Juanies/Pruebas-software/assets/80675013/64818ed3-d39f-4f71-9a51-b7cbee5299cc)
